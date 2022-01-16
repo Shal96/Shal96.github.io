@@ -6,7 +6,7 @@ permalink: /about/
 
 ## About Me
 
-![Graphing my skills](Shal96/Shal96.github.io/assets/Linkedn headshot.png)
+![Headshot](Shal96/Shal96.github.io/assets/Linkedn headshot.jpg)
 
 
 Hello! I am Shalmali, I'm a data scientist living in Indianapolis, Indiana. I code using python.
@@ -21,7 +21,7 @@ Hello! I am Shalmali, I'm a data scientist living in Indianapolis, Indiana. I co
 
 > - BE ELECTRONICS AND TELECOMMUNICATION (Aug 2014 - May 2018 ), PUNE UNIVERSITY
 
-> ![Graphing my skills](Shal96/Shal96.github.io/assets/my_skills_graph.png)
+> ![Graphing my skills](Shal96/Shal96.github.io/assets/my_skills_graph.jpg)
 
 
 
