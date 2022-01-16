@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
 
@@ -16,6 +16,11 @@ Hello! I am Shalmali, I'm a data scientist living in Indianapolis, Indiana. I co
 
 > - MS DATA SCIENCE (AUG'21- PRESENT ), INDIANA UNIVERSITY
 
-> - BE ELECTRONICS AND TELECOMMUNICATION (2014 -2018 ), PUNE UNIVERSITY
+> - BE ELECTRONICS AND TELECOMMUNICATION (Aug 2014 - May 2018 ), PUNE UNIVERSITY
 
-> ![Graphing my skills](C:/Users/hp/Desktop.PNG "my skills graph")
+> ![Graphing my skills](C:/Users/hp/Desktop.jpg "my skills graph")
+
+
+
+
+
