@@ -1,0 +1,10 @@
+I"f<p>Hello! I am Shalmali Walimbe, a <del>second</del> <del>third</del> fourth year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is designing algorithms in Privacy-Preserving Machine Learning.</p>
+
+<p>Please find the list of my publications under <a href="/research/">the research page</a> and my CV under <a href="/CV/">the CV page</a>.</p>
+
+<h2 id="updates">Updates:</h2>
+
+<ul>
+  <li>Jan 2022: We released a preprint of our recent work on efficiently graphing multivariate <em>statistical</em> power manifolds with supervised learning techniques. Manuscript now available at <a href="https://arxiv.org/abs/2201.00719">PowerGraph: Using neural networks and principal components to multivariate statistical power trade-offs</a>.</li>
+</ul>
+:ET

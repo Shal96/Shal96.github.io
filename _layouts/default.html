@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+  {%- include head.html -%}
+	{%- include mathjax.html -%}
+  {% seo %}
+  <!--<meta name="google-site-verification" content="SOMnh1XHJ92-6rYT0MpAgggfv3KCwxAqkAMZfSJKbfM" />-->
+  <!-- Clarity tracking code for https://thehimalayanleo.github.io/ -->
+  </head>
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+		<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript" ></script>
+    <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } }); </script>
+
+    {%- include footer.html -%}
+    {% include analytics.html %}
+
+  </body>
+
+</html>
+

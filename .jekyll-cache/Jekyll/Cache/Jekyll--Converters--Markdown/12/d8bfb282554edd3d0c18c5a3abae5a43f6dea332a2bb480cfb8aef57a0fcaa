@@ -1,0 +1,30 @@
+I"�	<h1>Latest Posts</h1>
+
+<ul>
+  
+    <li>
+      <h2><a href="/2021/02/23/How-To-Get-Started-With-Your-PhD.html">How To Get Started With Your Phd</a></h2>
+      <p><p>I joined the Electrical and Computer Engineering PhD Program at Purdue in Fall of 2018. When I begun my PhD, I was unsure of the research area I wanted to focus on, what I envisioned doing in the future and did not even know my PhD Advisor. On this journey (in my third year now), I have learnt a lot! Right from getting started with new research, how to read papers, how to write well, improve your social presence, collaborate, get internships and most importantly- how to follow your passion! Follow along as I take you on a journey of my experience and hopefully you find important resources and tips for your PhD journey!</p>
+</p>
+    </li>
+  
+    <li>
+      <h2><a href="/2021/02/23/A-Primer-On-Differential-Privacy.html">A Primer On Differential Privacy</a></h2>
+      <p><p>Understanding privacy involves knowing the fundamentals of differential privacy and federated learning systems. There seems to be quite a lot of interest in the theory of privacy as well as knowing how to exactly deploy these systems. This first primer in a long series of posts will provide the basics to get started with the theoretical foundations, basic implementations (open-source) and how to deploy it in research and industry. I’ll host these on GitHub (hosted at <a href="https://github.com/thehimalayanleo/APrimerOnDifferentialPrivacy">A Primer on Differential Privacy</a>) along with a compiled list of relevant resources.</p>
+</p>
+    </li>
+  
+    <li>
+      <h2><a href="/2021/02/08/ML-Workflow-for-Research-Scientists.html">Ml Workflow For Research Scientists</a></h2>
+      <p><p>To simplify workflows in ML systems, it’s important to know how to collaborate, document and benchmark experiments. Even more so in a collaborative environment. To simplify my ML research projects, I have come up with a blog post to show how to get started with ML workflows using standard open-source/free tools at <a href="https://thehimalayanleo.github.io/MLForResearchScientists/">ML Workflows for Research Scientists</a></p>
+</p>
+    </li>
+  
+    <li>
+      <h2><a href="/2019/01/13/The-Voice.html">The Voice</a></h2>
+      <p><p>He is always there with you, always giving advice, making suggestions, criticizing, laughing with you, smiling with you, and dreaming with you.</p>
+</p>
+    </li>
+  
+</ul>
+:ET

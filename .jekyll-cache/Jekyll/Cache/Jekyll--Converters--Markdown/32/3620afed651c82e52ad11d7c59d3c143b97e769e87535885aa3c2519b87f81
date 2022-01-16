@@ -1,0 +1,9 @@
+I"H<ul>
+  <li><a href="http://localhost:4000/assets/CV-Feb21.pdf">Feb 2021 CV (2 Page)</a></li>
+</ul>
+
+<object data="/assets/temp.pdf" width="1000" height="1000" type="application/pdf" />
+<p>Your web browser doesn't have a PDF plugin.
+  Instead you can <a href="/assets/CV-Feb21.pdf">click here to
+  download the PDF file.</a></p>
+:ET
