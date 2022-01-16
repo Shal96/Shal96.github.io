@@ -13,7 +13,7 @@ permalink: /about/
 
 
 
-*Hello! I am Shalmali, I'm a data scientist living in Indianapolis, Indiana. I code using python.
+Hello! I am Shalmali, I'm a data scientist living in Indianapolis, Indiana. I code using *python*.
 
 > **AGE** : 	25
 
