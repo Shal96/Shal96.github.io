@@ -3,7 +3,7 @@ layout: page
 title: About Me 
 permalink: /about/
 ---
-<img src="./assets/linkednheadshot.jpg" alt="Headshot" width="500" height="500">
+<img src="./assets/linkednheadshot.jpg" alt="Headshot" width="1000" height="1000">
 
 Hello! I am Shalmali, I'm a *data scientist* living in Indianapolis, Indiana. I code using *python*.
 
