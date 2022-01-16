@@ -6,7 +6,7 @@ permalink: /about/
 
 
 <figure>
-    <img src="Shal96.github.io/assets/Linkedn-headshot.jpg"
+    <img src="Shal96.github.io/assets/linkednheadshot.jpg"
          alt="Headshot" width="200" height="100">
 </figure>
 
@@ -22,7 +22,7 @@ Hello! I am Shalmali, I'm a *data scientist* living in Indianapolis, Indiana. I 
 
 > - BE ELECTRONICS AND TELECOMMUNICATION (Aug 2014 - May 2018 ), PUNE UNIVERSITY
 
-> ![Graphing my skills](Shal96.github.io/assets/my-skills-graph.jpg)
+> ![Graphing my skills](Shal96.github.io/assets/myskillsgraph.jpg)
 
 
 
