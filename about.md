@@ -10,7 +10,7 @@ permalink: /about/
          alt="Headshot" width="200" height="100">
 </figure>
 
-Hello! I am Shalmali, I'm a data scientist living in Indianapolis, Indiana. I code using *python*.
+Hello! I am Shalmali, I'm a *data scientist* living in Indianapolis, Indiana. I code using *python*.
 
 > **AGE** : 	25
 
