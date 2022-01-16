@@ -4,8 +4,4 @@ title: Research
 permalink: /research/
 ---
 
-#### **Papers** ####
 
-
-
-#### **Preprints** ####
