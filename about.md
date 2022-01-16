@@ -6,6 +6,9 @@ permalink: /about/
 
 ## About Me
 
+![Graphing my skills](Shal96/Shal96.github.io/assets/Linkedn headshot.png)
+
+
 Hello! I am Shalmali, I'm a data scientist living in Indianapolis, Indiana. I code using python.
 
 > **AGE** : 	25
