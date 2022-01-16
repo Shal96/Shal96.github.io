@@ -4,4 +4,18 @@ title: About
 permalink: /about/
 ---
 
-I am currently pursuing my Masters in Data Science at Indiana University.
+## About Me
+
+Hello! I am Shalmali, I'm a data scientist living in Indianapolis, Indiana. I code using python.
+
+> **AGE** : 	25
+
+> **RESIDENCE**: IN, USA
+
+> **EDUCATION**: 
+
+> - MS DATA SCIENCE (AUG'21- PRESENT ), INDIANA UNIVERSITY
+
+> - BE ELECTRONICS AND TELECOMMUNICATION (2014 -2018 ), PUNE UNIVERSITY
+
+> ![Graphing my skills](C:/Users/hp/Desktop.PNG "my skills graph")
