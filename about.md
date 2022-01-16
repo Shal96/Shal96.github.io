@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About 
+title: About Me 
 permalink: /about/
 ---
 
-## About Me
 
-![Headshot](Shal96/Shal96.github.io/assets/Linkedn headshot.jpg)
+<figure>
+    <img src="Shal96/Shal96.github.io/assets/Linkedn headshot.jpg"
+         alt="Headshot" width="200" height="100">
+    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
+</figure>
 
 
-Hello! I am Shalmali, I'm a data scientist living in Indianapolis, Indiana. I code using python.
+
+*Hello! I am Shalmali, I'm a data scientist living in Indianapolis, Indiana. I code using python.
 
 > **AGE** : 	25
 
