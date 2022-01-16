@@ -23,7 +23,7 @@ Hello! I am Shalmali, I'm a *data scientist* living in Indianapolis, Indiana. I 
 
 > - BE ELECTRONICS AND TELECOMMUNICATION (Aug 2014 - May 2018 ), PUNE UNIVERSITY
 
-> ![Graphing my skills](Shal96.github.io/assets/myskillsgraph.jpg)
+> ![Graphing my skills](./assets/myskillsgraph.jpg)
 
 
 
