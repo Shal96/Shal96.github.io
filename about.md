@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <figure>
     <img src="./assets/linkednheadshot.jpg"
-         alt="Headshot" width="100" height="150">
+         alt="Headshot" width="200" height="200">
 </figure>
 
 Hello! I am Shalmali, I'm a *data scientist* living in Indianapolis, Indiana. I code using *python*.
