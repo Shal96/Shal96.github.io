@@ -4,8 +4,6 @@
 layout: home
 ---
 
-Hello! I am Shalmali Walimbe, a first year Masters student at Indiana University. 
-
 ![updates](./assets/update.jpg)
 
 * Aug 2021: Joined as a graduate research assistant in Human Centered Computing department.
