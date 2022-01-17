@@ -6,8 +6,12 @@ layout: home
 
 Hello! I am Shalmali Walimbe, a first year Masters student at Indiana University. 
 
-Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/CV/).
+![updates](./assets/update.jpg)
 
-## Updates: ##
+* Aug 2021: Joined as a graduate research assistant in Human Centered Computing department.
 
-* Jan 2022: Started my website and published posts on ML.
+* Jan 2021: Wrote a blog on Multilingualism in India
+ 
+* Nov 2021: Joined Sciffer Analytics Pvt Ltd as a Data Science intern
+
+* Aug 2020: Completed Udacity's Data Scientist Nanodegree
